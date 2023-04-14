@@ -12,7 +12,7 @@ This section should provide information on how to get started with the project.
 1. Clone the repository and install dependencies using npm:
 
 ```sh
-git clone https://github.com/himanshu-baghel07/MoviesApp
+git clone https://github.com/himanshu-baghel07/Team-Maker
 
 ```
 2. Install the necessary dependencies:
